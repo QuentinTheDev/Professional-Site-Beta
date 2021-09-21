@@ -1,0 +1,114 @@
+body {
+  background-color: white;
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: Sacramento, cursive;
+  position: relative;
+  color: gray;
+  margin: 0px auto 0 auto;
+}
+h2{
+  color: gray;
+  font-size: 2rem;
+  position: relative;
+}
+h3{
+  color: gray;
+}
+
+
+.Left{
+  float: left;
+}
+
+.Right{
+  float: right;
+}
+
+img {
+  position: relative;
+  height: 200px;
+  width: auto;
+  opacity: 1.0;
+  object-fit: cover;
+}
+
+
+hr {
+  border-color: black;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+  align-items: center;
+}
+
+ul {
+  display: inline-block;
+}
+li{
+  display: inline;
+  float: left;
+}
+a{
+  display: block;
+  padding: 8px;
+  background-color: #caf0f8;
+}
+li a{
+
+}
+
+.profile {
+  border-radius: 2%;
+  background-color: #caf0f8;
+  position: relative;
+  height: 27vh;
+  width: 100%;
+text-align: center;
+margin-bottom: 1%;
+}
+
+
+
+.profile2{
+  margin: 0 auto 0 auto;
+  align-items: center;
+}
+Q-img{
+  align-items: center;
+}
+
+
+.mid-container{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 1;
+}
+.Laptop-img{
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  text-align: center;
+  border-radius: 1%;
+  height: 50vh;
+  background-color:#caf0f8;
+}
+
+.bottom-container2 {
+  border-radius: 2%;
+  height: 50%;
+  width: 50%;
+  text-align: right;
+  margin: 10% auto 10% auto;
+}
+.Code-img{
+  float: right;
+  margin-left: 30px;
+}
